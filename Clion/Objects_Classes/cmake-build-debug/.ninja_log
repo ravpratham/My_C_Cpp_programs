@@ -1,0 +1,7 @@
+# ninja log v5
+4	413	7316798501730990	CMakeFiles/Objects_Classes.dir/main.cpp.obj	9fd254e8f48edcd7
+414	511	7316798502706999	Objects_Classes.exe	9fa16f18c0fc2d9b
+9	519	7316794855202944	CMakeFiles/Objects_Classes.dir/test.cpp.obj	a48e23d57b8d5c5e
+2	152	7316798913239934	build.ninja	261a9e8db22c2921
+2	138	7316798913239934	build.ninja	261a9e8db22c2921
+3	93	7316798914581226	Objects_Classes.exe	9fa16f18c0fc2d9b

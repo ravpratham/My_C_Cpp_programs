@@ -1,0 +1,3 @@
+C:/Pratham/projects/C_C++ Language/cmake-build-debug/CMakeFiles/C_C___Language.dir
+C:/Pratham/projects/C_C++ Language/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Pratham/projects/C_C++ Language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
