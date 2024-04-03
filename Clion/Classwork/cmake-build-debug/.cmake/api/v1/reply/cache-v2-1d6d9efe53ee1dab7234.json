@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Pratham/projects/C_C++ Language/Clion/Classwork/cmake-build-debug"
+			"value" : "c:/Pratham/projects/My_C_Cpp_programs/Clion/Classwork/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Pratham/projects/C_C++ Language/Clion/Classwork/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Pratham/projects/My_C_Cpp_programs/Clion/Classwork/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Pratham/projects/C_C++ Language/Clion/Classwork"
+			"value" : "C:/Pratham/projects/My_C_Cpp_programs/Clion/Classwork"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Pratham/projects/C_C++ Language/Clion/Classwork/cmake-build-debug"
+			"value" : "C:/Pratham/projects/My_C_Cpp_programs/Clion/Classwork/cmake-build-debug"
 		},
 		{
 			"name" : "Classwork_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Pratham/projects/C_C++ Language/Clion/Classwork"
+			"value" : "C:/Pratham/projects/My_C_Cpp_programs/Clion/Classwork"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

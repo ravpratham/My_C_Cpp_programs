@@ -34,3 +34,4 @@ int main(){
     obj3.area();
     return 0;
 }
+
