@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Classwork main.cpp
         "Constructor Overloading.cpp"
+        cmake-build-debug/rough.cpp
 )
