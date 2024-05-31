@@ -1,18 +1,27 @@
 #include <iostream>
-#include <list>
-
 using namespace std;
 
-int main() {
-    list<int> myList;
+class Base{
+    int x;
 
-    myList.push_back(1);
-    myList.push_back(2);
-    myList.push_back(3);
+public:
+    virtual void fun() = 0;
 
-    myList.insert(myList.begin() + 1, 4);
+    int getx(){ return x;}
 
-    cout << "The size of the list is: " << myList.size() << endl;
+};
 
-    return 0;
+class Derived: public Base{
+    int y;
+
+public:
+
+};
+
+int main(){
+    Derived d;
+    d.fun();
+
+
+return 0 ;
 }

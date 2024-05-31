@@ -1,26 +1,7 @@
 #include <iostream>
-#include <list>
-
 using namespace std;
-class base{
-    public:
-    void show(){
-        cout << "Base\n";
-    }
-};
-
-class derived : public base {
-    public:
-    void show(){
-        cout << "Derived\n";
-    }
-};
-
 int main() {
-    base baseObj;
-    derived derivedObj;
-    baseObj.show();
-    derivedObj.show();
-
+    int arr[] = {10,20,30,40,50};
+    cout << arr.size();
   return 0;
 }
