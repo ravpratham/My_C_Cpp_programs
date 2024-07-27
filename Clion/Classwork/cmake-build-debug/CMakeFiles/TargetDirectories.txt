@@ -1,3 +1,0 @@
-C:/Pratham/projects/My_C_Cpp_programs/Clion/Classwork/cmake-build-debug/CMakeFiles/Classwork.dir
-C:/Pratham/projects/My_C_Cpp_programs/Clion/Classwork/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Pratham/projects/My_C_Cpp_programs/Clion/Classwork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
